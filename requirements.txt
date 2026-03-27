@@ -1,0 +1,22 @@
+# Core ML/DL
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning (uncomment as needed)
+# torch
+# torchvision
+# tensorflow
+# keras
+
+# NLP (uncomment as needed)
+# transformers
+# nltk
+# spacy
+
+# Utilities
+tqdm
+jupyter
+ipykernel

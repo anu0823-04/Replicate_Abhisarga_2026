@@ -1,0 +1,14 @@
+Test Accuracy: 0.6444
+Bands: ['DEM', 'SAR_B1', 'SAR_B2', 'S2_B02', 'S2_B03', 'S2_B04', 'S2_B08', 'S2_B11', 'S2_B12', 'Rainfall_zero']
+Seed: 42
+Pretrain epochs: 5
+Finetune epochs: 35
+
+              precision    recall  f1-score   support
+
+No Landslide     0.7222    0.8125    0.7647        32
+   Landslide     0.3333    0.2308    0.2727        13
+
+    accuracy                         0.6444        45
+   macro avg     0.5278    0.5216    0.5187        45
+weighted avg     0.6099    0.6444    0.6226        45
